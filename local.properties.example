@@ -1,0 +1,6 @@
+# Copy this file to local.properties (it is never committed)
+sdk.dir=C:/Android/sdk
+
+# Panel → Applications → your app → App secret
+PWF_APP_SECRET=your-app-secret
+PWF_BASE_URL=https://pwfauth.com

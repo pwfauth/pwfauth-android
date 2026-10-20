@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- the PWF Auth mark: a white disc with the keyhole cut out, inside the 108dp adaptive canvas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:translateX="34" android:translateY="34" android:scaleX="1.25" android:scaleY="1.25">
+        <path android:fillColor="#FFFFFF" android:pathData="M16,0a16,16 0,1 1,0 32a16,16 0,1 1,0 -32z" />
+        <path android:fillColor="#0A0A0A" android:pathData="M16,7.5a4.2,4.2 0,0 0,-2 7.9l-1.5,8.6h7l-1.5,-8.6A4.2,4.2 0,0 0,16 7.5z" />
+    </group>
+</vector>
